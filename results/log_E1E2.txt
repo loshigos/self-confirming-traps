@@ -1,0 +1,20 @@
+greedy 0.0 [0.447 0.091 0.325 0.   ]
+greedy 0.01 [0.    0.    0.325 0.   ]
+greedy 0.02 [0.    0.    0.325 0.   ]
+remedial 0.0 [0.806 0.248 0.485 0.107]
+remedial 0.01 [0.023 0.002 0.807 0.   ]
+remedial 0.02 [0.    0.    0.807 0.   ]
+lp 0.0 [0.827 0.111 0.471 0.045]
+lp 0.01 [0.158 0.08  0.473 0.034]
+lp 0.02 [0.    0.    0.485 0.107]
+mastery 0.0 [0.816 0.002 0.1   0.   ]
+mastery 0.01 [0.101 0.    0.789 0.   ]
+mastery 0.02 [0.    0.    0.789 0.   ]
+roundrobin 0.0 [0.043 0.    0.807 0.   ]
+roundrobin 0.01 [0.021 0.    0.807 0.   ]
+roundrobin 0.02 [0.    0.    0.807 0.   ]
+{'delta': 0.02, 'dh': 0.0, 'x': 0.98, 'kt_sim': 28, 'kt_formula': 28, 'kb_sim': inf, 'kb_formula': inf, 'window_sim': inf, 'depth_sim': 0.1, 'depth_bound': 0.1, 'rho': inf}
+{'delta': 0.02, 'dh': 0.005, 'x': 0.98, 'kt_sim': 28, 'kt_formula': 28, 'kb_sim': 113.0, 'kb_formula': 113.0, 'window_sim': 85.0, 'depth_sim': 0.1897489188083814, 'depth_bound': 0.19014894325061849, 'rho': 4.030431670939049}
+{'delta': 0.02, 'dh': 0.01, 'x': 0.98, 'kt_sim': 28, 'kt_formula': 28, 'kb_sim': 57.0, 'kb_formula': 57.0, 'window_sim': 29.0, 'depth_sim': 0.3782075979917664, 'depth_bound': 0.38246508916929267, 'rho': 2.0101524577888625}
+{'delta': 0.05, 'dh': 0.02, 'x': 0.98, 'kt_sim': 12, 'kt_formula': 12, 'kb_sim': 28.0, 'kb_formula': 28.0, 'window_sim': 16.0, 'depth_sim': 0.3092876590246923, 'depth_bound': 0.3094801001169163, 'rho': 2.538931717486688}
+{'delta': 0.01, 'dh': 0.002, 'x': 0.98, 'kt_sim': 57, 'kt_formula': 57, 'kb_sim': 283.0, 'kb_formula': 283.0, 'window_sim': 226.0, 'depth_sim': 0.15119679133950364, 'depth_bound': 0.1515198324876654, 'rho': 5.020141082090814}
